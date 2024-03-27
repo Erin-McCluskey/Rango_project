@@ -1,5 +1,5 @@
-from django.apps import AppConfig
+#from django.apps import AppConfig
 
 
-class RangoConfig(AppConfig):
-    name = 'apps.rango'
+#class RangoConfig(AppConfig):
+#    name = 'apps.rango'
