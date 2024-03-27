@@ -27,7 +27,7 @@ SECRET_KEY = '#)kgouv4u$shc-wfx-6t4iecdt0z@ssec%pryu@+a=1lfwwyfg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ErinM.pythonanywhere.com']
 
 LOGIN_URL = 'rango:login'
 
